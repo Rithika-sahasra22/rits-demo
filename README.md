@@ -1,4 +1,5 @@
 # rits-demo
+
 This is my first git repository.
 <br>
-Author-Rithika.
+Author-Nagarjuna Rithika Chalva
