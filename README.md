@@ -4,6 +4,7 @@ This is my first git repository.
 <br>
 Author-Nagarjuna Rithika Chalva.
 <br>
-An upcoming....
+Author2-This is Terminator aka NCS, The first person to eidt this Repository o_o
 <br>
-and wfie of NCS
+Looking forward for the upcoming comments...
+
